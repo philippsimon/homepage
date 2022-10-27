@@ -1,0 +1,64 @@
+ 
+- Ludwigsburg
+  - Schloss
+  - Favoritepark
+- Waldenbuch
+  - Schokoladenfabrik
+- Metzingen
+  - Outlet
+- Stuttgart
+  - Chinesischer Garten
+  - Sepulchral Kapelle
+  - Teehaus
+  - Grabkapelle Württemberg
+  - Fernsehturm (Restaurant kostenloser Eintritt)
+  - Birkenkopf
+  - Karlshöhe
+  - Killesberg
+  - Wilhelma
+  - Rosensteinpark
+  - Feuersee
+  - Linden Museum
+  - Porsche Museum
+  - Mercedes-Benz Museum
+  - Staatsgallerie
+  - Bad Cannstatt
+  - Mineralbad Bad Berg
+  - Neckar (Strand)
+  - Wizemann
+  - Wasn-Gelände
+  - Weinstuben Bad Cannstatt
+  - https://stuttgart.museumderillusionen.de/en/
+- Pforzheim: https://www.gasometer-pforzheim.de/de/fuehrungen
+- Bärensee
+- Bärenschlössle
+- Besigheim
+  - Felsengärten
+  - Stadt
+  - Wein
+- Remseck
+- Triberg
+- Böblingen
+  - Therme
+- Esslingen
+- Filderstadt
+  - Filderado Therme
+- Breitenauer See
+- Bad Urach
+- Schloss Lichtenstein
+- Schloss Hohenzollern
+- Heidelberg
+- Ulm
+- Tübingen
+- Rothenburg ob der Tauber
+- Blautopf
+- Sinsheim
+  - Technik Museum
+  - Therme & Badewelt
+- Speyer
+  - Dom
+  - Technik Museum
+  - Sea Life Speyer
+- Sinsheim
+- May-Eyth See
+![image](https://user-images.githubusercontent.com/2590857/198226815-ca0f8ac2-3f08-480c-9203-341405800ef2.png)
