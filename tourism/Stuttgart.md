@@ -61,4 +61,3 @@
   - Sea Life Speyer
 - Sinsheim
 - May-Eyth See
-![image](https://user-images.githubusercontent.com/2590857/198226815-ca0f8ac2-3f08-480c-9203-341405800ef2.png)
