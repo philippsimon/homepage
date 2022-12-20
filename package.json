@@ -1,0 +1,24 @@
+{
+  "name": "philippsimon.de-homepage",
+  "version": "1.0.0",
+  "description": "Source of my homepage on https://www.philippsimon.de",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "html-validate dist/**/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippsimon/homepage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philippsimon/homepage/issues"
+  },
+  "homepage": "https://github.com/philippsimon/homepage#readme",
+  "devDependencies": {
+    "html-validate": "^7.7.1",
+    "marked": "^4.1.1"
+  }
+}

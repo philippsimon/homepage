@@ -1,5 +1,5 @@
  
-# Recommendations around Stuttgart
+# Recommendations Stuttgart area
 
 - Ludwigsburg
   - Schloss
